@@ -1,2 +1,2 @@
 # refscn.github.io
-refs.cn Page
+please go offical website http://refs.cn .
