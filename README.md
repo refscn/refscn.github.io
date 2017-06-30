@@ -8,7 +8,7 @@
 感谢您的下载和使用，我们随时恭候您提出真诚和宝贵的建议。
 * QQ 群号：198730058
 
-![扫码加入](https://github.com/refscn/refscn.github.io/raw/master/assets/refs-qqgroup-qrcode.png =270x370)
+![扫码加入 QQ 群](https://github.com/refscn/refscn.github.io/raw/master/assets/refs-qqgroup-qrcode-s.png)
 
 
 需要更多资源，请访问我们的 [官网](http://refs.cn) 。
