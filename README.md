@@ -8,6 +8,7 @@
 
 
 感谢您的下载和使用，我们随时恭候您提出真诚和宝贵的建议。请使用微信扫码：
+
 ![微信扫码加入](https://github.com/refscn/refscn.github.io/raw/master/assets/qrcode_for_gh_1b86263dcffe_172.jpg)
 
 * QQ 群号：198730058
