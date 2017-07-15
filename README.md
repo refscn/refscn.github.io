@@ -7,11 +7,11 @@
 * [Axure RP 8 工具汉化](https://github.com/refscn/rphh "免费下载")
 
 
-感谢您的下载和使用，我们随时恭候您提出真诚和宝贵的建议。请使用微信扫码：
+感谢您的下载和使用，我们随时恭候您提出真诚和宝贵的建议。请使用微信扫码关注我们：
 
 ![微信扫码加入](https://github.com/refscn/refscn.github.io/raw/master/assets/qrcode_for_gh_1b86263dcffe_172.jpg)
 
-* QQ 群号：198730058
+* 或加入 QQ 群号：198730058
 
 
 需要更多资源，请访问我们的 [官网](http://refs.cn) 。
