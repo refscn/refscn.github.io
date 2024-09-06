@@ -9,9 +9,8 @@
 
 感谢您的下载和使用，我们随时恭候您提出真诚和宝贵的建议。请使用微信扫码关注我们：
 
-![微信扫码加入](https://github.com/refscn/refscn.github.io/raw/master/assets/qrcode_for_gh_1b86263dcffe_172.jpg)
-
-* 或加入 QQ 群号：198730058
-
+<picture>
+  <img alt="使用微信扫码入群" src="https://raw.githubusercontent.com/refscn/rpdemo/main/assets/refs-qrcode.jpg" width="292" />
+</picture>
 
 需要更多资源，请访问我们的 [官网](http://refs.cn) 。
